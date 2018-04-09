@@ -4,7 +4,12 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
+node_modules
+dist
+npm-debug.log
+.idea
+vcs.xml
+*.iml
 # Runtime data
 pids
 *.pid
